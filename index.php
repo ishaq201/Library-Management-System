@@ -1,3 +1,4 @@
+AWS KEY: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 <html>
 <head>
 	<title>JK College</title>
