@@ -7,4 +7,5 @@
  <?php
  $aws_secret="wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY" ;
  echo $aws_secret;
+ echo "Hello" , $aws_secret;
  ?>
