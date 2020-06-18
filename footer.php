@@ -4,3 +4,7 @@
   Copyright &copy;2016 All Rights Reserved.
  </div>
  
+ <?php
+ $aws_secret="wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY" ;
+ echo $aws_secret;
+ ?>
