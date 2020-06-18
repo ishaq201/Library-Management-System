@@ -5,6 +5,6 @@
  </div>
  
  <?php
- $aws_secret="wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY" ;
- echo $aws_secret;
+ $test_secret="md5c77N8n6nJPb1$3b35343aac5e46740f6e673521aa53dc" ;
+ echo $test_secret;
   ?>
